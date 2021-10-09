@@ -1,5 +1,5 @@
 public class Push {
     public static void main(String[] args){
-        System.out.println("Push~~java before jungmo  modify 수정후");
+        System.out.println("Push~~java before jungmo  modify modify finished");
     }
 }
